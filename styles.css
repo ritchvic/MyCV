@@ -1,0 +1,25 @@
+h2 {
+color:#e78fb3;
+}
+
+body {
+  background-color: #faeee7;
+}
+
+h1  {
+  color:#6fc1a5;
+}
+
+ul   {
+  color:#fb5b5a;
+}
+
+p  {
+  color:#fb5b5a;
+}
+
+
+hr  {
+  border-top: 5px dotted #e78fb3;
+  width: 30%
+}
